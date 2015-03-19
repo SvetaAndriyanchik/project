@@ -1,0 +1,18 @@
+18.02.2015 20:29:13 [AWT-EventQueue-0] INFO  by.epam.aviacompany.controller.Runner  - start
+18.02.2015 20:29:14 [AWT-EventQueue-0] INFO  by.epam.aviacompany.model.businesslogic.ResultPrinter  - List of all planes've successfully been written into result.txt
+18.02.2015 20:29:14 [AWT-EventQueue-0] INFO  by.epam.aviacompany.model.businesslogic.ResultPrinter  - Sorted by the flight rage planes have been written into result.txt
+18.02.2015 20:55:56 [AWT-EventQueue-0] INFO  by.epam.aviacompany.controller.Runner  - start
+18.02.2015 20:55:56 [AWT-EventQueue-0] INFO  by.epam.aviacompany.model.businesslogic.ResultPrinter  - List of all planes written
+18.02.2015 20:55:56 [AWT-EventQueue-0] INFO  by.epam.aviacompany.model.businesslogic.ResultPrinter  - Sorted by the flight rage
+18.02.2015 21:04:55 [AWT-EventQueue-0] INFO  by.epam.aviacompany.controller.Runner  - start
+18.02.2015 21:04:55 [AWT-EventQueue-0] INFO  by.epam.aviacompany.model.businesslogic.ResultPrinter  - List of all planes written
+18.02.2015 21:04:55 [AWT-EventQueue-0] INFO  by.epam.aviacompany.model.businesslogic.ResultPrinter  - Sorted by the flight rage
+18.02.2015 21:04:55 [AWT-EventQueue-0] INFO  by.epam.aviacompany.model.businesslogic.ResultPrinter  - Sorted by the flight rage
+18.02.2015 21:09:27 [AWT-EventQueue-0] INFO  by.epam.aviacompany.controller.Runner  - start
+18.02.2015 21:09:27 [AWT-EventQueue-0] INFO  by.epam.aviacompany.model.businesslogic.ResultPrinter  - List of all planes written
+18.02.2015 21:09:27 [AWT-EventQueue-0] INFO  by.epam.aviacompany.model.businesslogic.ResultPrinter  - Sorted by the flight rage
+18.02.2015 21:20:38 [AWT-EventQueue-0] INFO  by.epam.aviacompany.controller.Runner  - start
+18.02.2015 21:20:38 [AWT-EventQueue-0] INFO  by.epam.aviacompany.model.businesslogic.ResultPrinter  - List of all planes written
+18.02.2015 21:20:38 [AWT-EventQueue-0] INFO  by.epam.aviacompany.model.businesslogic.ResultPrinter  - Sorted by the flight rage
+18.02.2015 21:20:38 [AWT-EventQueue-0] INFO  by.epam.aviacompany.model.businesslogic.ResultPrinter  - Calculated values
+18.02.2015 21:20:38 [AWT-EventQueue-0] ERROR by.epam.aviacompany.controller.Runner  - Plane not found
